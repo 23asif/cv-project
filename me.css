@@ -1,0 +1,162 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: #eee;
+}
+.container{
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: lightcyan;
+  font-size: 18px;
+  }
+img{
+  width: 100px;
+  height: 100px;
+  border: 3px solid white;
+  border-radius: 50%;
+  float: left;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+.one{
+  float: left;
+  padding: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+  color: lightseagreen;
+}
+.two {
+  float: right;
+  padding: 10px;
+
+
+}
+.two a{
+  color: lightseagreen;
+  text-decoration: none;
+}
+.two a:hover{
+  text-decoration: underline;
+  font-weight: bold;
+  color: lightskyblue;
+}
+.div-clear{
+  clear: both;
+}
+hr{
+  border: solid black 3px;
+  width: 97.5%;
+  margin: 10px;
+  border-bottom: none;
+}
+
+/*--------------
+Personal
+--------------*/
+#personal{
+
+}
+
+.content{
+  margin-bottom: 10px;
+}
+
+.left{
+  width: 30%;
+  float: left;
+  margin-top: 30px;
+}
+.left h3{
+  margin-left: 20px;
+}
+.right{
+  width: 70%;
+  float: left;
+
+}
+.clear{
+  clear: both;
+}
+.mat{
+  border: solid black 1px;
+  width: 97.5%;
+  margin: 13px;
+  border-bottom: none;
+}
+.clr{
+  clear: both;
+}
+.po{
+  border: solid black 1px;
+  width: 97.5%;
+  margin: 13px;
+  border-bottom: none;
+}
+.edu-lft a ,.edu-rt a{
+  text-decoration: underline;
+}
+.edu-rt{
+  float: right;
+  width: 45%;
+}
+.edu-lft{
+  float: left;
+  width: 45%;
+}
+.edu-rt a:hover{
+  color: lightseagreen;
+}
+.edu-lft a:hover{
+  color: lightseagreen;
+}
+.cl{
+  clear: both;
+}
+.go{
+  border: solid black 1px;
+  width: 97.5%;
+  margin: 13px;
+  border-bottom: none;
+}
+
+.divcl{
+  clear: both;
+}
+.bo{
+  border: solid black 1px;
+  width: 97.5%;
+  margin: 13px;
+  border-bottom: none;
+}
+.cldiv{
+  clear: both;
+}
+.ao{
+  border: solid black 1px;
+  width: 97.5%;
+  margin: 13px;
+  border-bottom: none;
+}
+/*----------------
+footer start
+----------*/
+.yo{
+  background-color: black;
+  text-align: center;
+  padding: 10px;
+}
+.yo a{
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+}
+.yo p{
+  color: white;
+  margin-top: 20px;
+}
+.yo a:hover{
+  color: yellow;
+}
